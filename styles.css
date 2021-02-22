@@ -1,0 +1,149 @@
+* {
+    hyphens: auto;
+}
+
+
+
+header {
+    background-color: #fafafa;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    color:rgb(80, 120, 128);
+    padding: 1rem;
+    line-height: 20px;
+}
+
+
+
+#intro {
+    font-weight: lighter;
+    display: block;
+}
+
+
+
+
+li {
+    background-color: #ffffff;
+    padding: 1rem;
+    line-height: 20px;
+    display: block;
+    margin: 5px;
+}
+
+
+
+
+ul {
+    list-style-type: none;
+    padding-left: 0%;
+}
+
+
+
+.profile-image {
+    width: 17rem;
+}
+
+
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    font-weight: lighter;
+    padding: 0 30px;
+    margin: -10px 20px 80px;
+    line-height: 1.5rem;
+}
+
+
+.heading {
+    font-family: 'Ubuntu', sans-serif;
+    display: block;
+    text-align: center;
+       
+}
+
+
+.portfolio-image {
+    max-width: 96.4vw;   
+}
+
+
+#portfolio-heading {
+    font-size: 25px;
+    padding: 30px 0;
+    background-color: #fed36e;
+}
+
+
+#contact-box {
+    background-color: #fafafa;
+    color: rgb(124, 124, 124);
+    padding: 30px 0 40px;
+    font-weight: lighter;    
+}
+
+h4 {
+    display: inline;
+   
+}
+
+#number {
+    display: inline-block;
+    margin: -13px 0;
+}
+
+#email-address {
+    display: inline-block;
+    padding-bottom: 60px;
+    margin: 0px;
+}
+
+#phone {
+    font-weight: lighter;
+    display: inline-block;
+    padding-right: 10px;
+}
+
+#email {
+    font-weight: lighter;
+    padding-right: 10px;
+}
+
+section {
+    padding: 0 20px;
+    line-height: 1.5rem;
+    padding-bottom: 10px;
+}
+
+.Name-and-back-to-top {
+    display: block;
+    float: left;
+}
+
+
+/*link attributes*/
+a:link {
+    text-decoration: none;
+}
+    
+a:link {
+    color: rgb(0, 0, 0);
+}
+
+  
+a:visited {
+    color: rgb(199, 109, 81);
+}
+
+  
+a:hover {
+    color: rgb(80, 120, 128);
+}
+
+  
+a:active {
+    color: blue;
+}
+  
