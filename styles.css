@@ -117,10 +117,27 @@ section {
     padding-bottom: 10px;
 }
 
-.Name-and-back-to-top {
-    display: block;
-    float: left;
+footer li,
+footer p {
+  margin: 0;
+  padding: 0;
 }
+
+
+footer p {
+  float: left;
+  text-align: left;
+  line-height: 20px;
+}
+
+
+.Name-and-back-to-top {
+  display: block;
+  text-align: right;
+  margin: 0;
+  float: right;
+}
+
 
 
 /*link attributes*/
